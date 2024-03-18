@@ -13,9 +13,9 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/pull%20requests-welcome-brightgreen.svg)](https://github.com/davidsbatista/BREDS/blob/main/CONTRIBUTING.md)
 
 
-# BREDS
+# BREDs
 
-BREDS extracts relationships using a bootstrapping/semi-supervised approach, it relies on an initial set of 
+BREDs extracts relationships using a bootstrapping/semi-supervised approach, it relies on an initial set of 
 seeds, i.e. pairs of named-entities representing relationship type to be extracted.  
 
 The algorithm expands the initial set of seeds using distributional semantics to generalize the relationship while 
